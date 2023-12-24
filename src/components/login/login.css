@@ -1,0 +1,79 @@
+.user_cont,.pwd_cont,label{
+    display: block !important;
+    color: black;
+    margin: 10px 10px 10px 0px;
+    font-weight: 500;
+}
+
+label{
+    font-size: 1.1em;
+}
+
+.form_cont{
+    border: 1px solid black;
+    width: 40%;
+    margin: auto;
+    margin-top: 5%;
+    padding: 15px;
+    box-shadow: 2px 2px 20px 7px #d1d1d1;
+}
+
+.login_form {
+    padding: 20px 30px;
+}
+
+.form-control {
+
+    padding: 10px;
+    border-radius: 0px;
+  
+  }
+  
+
+.submitbtn{
+    background-color: #0070ad;
+    color: white;
+    border: 1px solid #0070ad;
+    border-radius: 5px;
+    width: 100%;
+    text-align: center;
+    margin: 20px auto;
+    padding: 12px;
+}
+
+.submitbtn:hover{
+    border:  1px solid black;
+    background-color: black;
+    color: white;
+}
+
+.submit_cont{
+    text-align: center;
+    margin: 20px 0px 10px 0px;
+}
+.login_head{
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+input{
+    width: 100%;
+}
+
+.star{
+    color: red;
+}
+.userinput{
+    border-radius: 5px;
+}
+.pwdinput{
+    border-radius: 5px;
+}
+.cutsomnav{
+    background-color: #0070ad;
+    height: 60px;
+}
+.nav-login-items{
+    color: white;
+    font-size: 18px;
+}

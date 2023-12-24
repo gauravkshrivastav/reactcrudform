@@ -1,0 +1,128 @@
+{
+  "products": [
+    {
+      "name": "Headphone3",
+      "price": "1000",
+      "id": 4,
+      "img": "images/product.png"
+    },
+    {
+      "name": "Tv",
+      "price": "50000",
+      "id": 6,
+      "img": "images/product.png"
+    },
+    {
+      "name": "Gaming Laptop1",
+      "price": "7000",
+      "img": "images/product.png",
+      "id": 7
+    },
+    {
+      "name": "Washing Machine1",
+      "price": "30000",
+      "img": "images/product.png",
+      "id": 8
+    },
+    {
+      "name": "pen",
+      "price": "1000",
+      "img": "images/product.png",
+      "id": 13
+    },
+    {
+      "name": "iphone",
+      "price": "30000",
+      "img": "images/product.png",
+      "id": 20
+    },
+    {
+      "name": "jbdjhdgj",
+      "price": "3000",
+      "img": "images/product.png",
+      "id": 21
+    },
+    {
+      "name": "sdasd",
+      "price": "32",
+      "img": "images/img-1.jpg",
+      "id": 22
+    },
+    {
+      "name": "sadasd",
+      "price": "34",
+      "id": 23
+    },
+    {
+      "name": "dddddddddddddddddddd",
+      "price": "34234",
+      "id": 24
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "password": "gauravuser",
+      "email": "gauravuser@gmail.com",
+      "admin_privilleged": "no"
+    },
+    {
+      "id": 2,
+      "password": "gauravadmin",
+      "email": "gauravadmin@gmail.com",
+      "admin_privilleged": "yes"
+    },
+    {
+      "id": 3,
+      "password": "gauravuser1",
+      "email": "gauravuser1@gmail.com",
+      "admin_privilleged": "no"
+    }
+  ],
+  "cart": [
+    {
+      "id": "2",
+      "item": []
+    },
+    {
+      "id": "1",
+      "item": [
+        {
+          "name": "Gaming Laptop1",
+          "price": "7000",
+          "img": "images/product.png",
+          "id": 7,
+          "quantity": 2
+        },
+        {
+          "name": "Tv",
+          "price": "50000",
+          "id": 6,
+          "img": "images/product.png",
+          "quantity": 1
+        },
+        {
+          "name": "Washing Machine1",
+          "price": "30000",
+          "img": "images/product.png",
+          "id": 8,
+          "quantity": 1
+        },
+        {
+          "name": "Headphone3",
+          "price": "1000",
+          "id": 4,
+          "img": "images/product.png",
+          "quantity": 1
+        },
+        {
+          "name": "iphone",
+          "price": "30000",
+          "img": "images/product.png",
+          "id": 20,
+          "quantity": 1
+        }
+      ]
+    }
+  ]
+}

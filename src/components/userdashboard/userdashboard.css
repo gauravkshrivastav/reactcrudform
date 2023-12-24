@@ -1,0 +1,34 @@
+.add{
+    background-color: #0070ad;
+    color: white;
+    border: #0070ad;
+    padding: 10px;
+    padding-right: 20px;
+    padding-left: 20px;
+    border-radius: 5px;
+}
+.btn-desc{
+    background-color: #0070ad;
+    color: white;
+    border: #0070ad;
+    padding: 10px;
+    padding-right: 20px;
+    padding-left: 20px;
+    border-radius: 5px;
+}
+
+.col-12.col-sm-6.col-md-4.col-lg-3.mb-4 {
+    box-shadow: 2px 2px 20px 1px #e8e8e8;
+}
+
+.view-btns{
+    display: flex;
+    justify-content: space-between;
+}
+.count{
+    margin: auto;
+    font-size: 17px;
+    font-weight: bold;
+    margin-left: 10px;
+    margin-right: 10px;
+}

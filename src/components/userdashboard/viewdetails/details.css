@@ -1,0 +1,20 @@
+.showview {
+    margin: auto;
+    width: 500px;
+    margin-top: 150px;
+}
+.backbutton1{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+}
+.back{
+    background-color: #0070ad;
+        color: white;
+        border: 1px solid white;
+        border-radius: 5px;
+        padding: 5px;
+        padding-right: 10px;
+        padding-left: 10px;
+        font-size: 20px;
+}

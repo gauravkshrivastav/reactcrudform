@@ -1,0 +1,28 @@
+span.quantity {
+    margin-right: 20px;
+    margin-left: 20px;
+}
+td{
+    text-align: center;
+}
+.clear{
+    background-color: #0070ad;
+    border: 1px solid #0070ad;
+    color: white;
+    border-radius: 5px;
+    padding: 10px;
+    margin-right: 20px;
+}
+.placeorder{
+    background-color: #0070ad;
+    border: 1px solid #0070ad;
+    color: white;
+    border-radius: 5px;
+    padding: 10px;
+}
+.networkissue{
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+    margin-top: 30px;
+}

@@ -1,0 +1,80 @@
+.Update {
+    width: 500px;
+    margin: auto;
+    margin-top: 50px;
+    border: 1px solid gray;
+    padding: 30px;
+    box-shadow: 2px 2px 20px 7px #d1d1d1;
+}
+button.updatebtn {
+    margin-top: 20px;
+    width: 20%;
+    background-color: #0070ad;
+    border: 1px solid #0070ad;
+    color: white;
+    padding: 5px;
+}
+input{
+    border-radius: 5px;
+}
+.required{
+    color: red;
+    text-align: start;
+}
+.yes{
+    background-color: #0070ad;
+    color: white;
+    border-radius: 5px;
+    border: 1px solid #0070ad;
+    padding: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.no{
+    margin-left: 30px;
+    background-color: #0070ad;
+    color: white;
+    border-radius: 5px;
+    border: 1px solid #0070ad;
+    padding: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.gobutn{
+    display: flex;
+    justify-content: end;
+}
+.backbutton{
+    margin-top: 20px;
+    width: 20%;
+    background-color: #0070ad;
+    border: 1px solid #0070ad;
+    color: white;
+    padding: 5px;
+    margin-right: 20px;
+}
+.edited{
+    margin: 0px;
+    margin-bottom: 15px;
+    font-size: 20px;
+}
+
+.popupcontainer{
+    align-items: center;
+	background-color: rgba(36, 36, 36, 0.75);
+	display: flex;
+	flex-wrap: wrap;
+	height: 100vh;
+	justify-content: center;
+	left: 0;
+	margin: 0 auto;
+	overflow-x: hidden;
+	position: fixed;
+	top: 0;
+	width: 100vw;
+	z-index: 100;
+}
+.handelingproduct{
+    margin-top: 300px;
+    background-color: #fff;
+}

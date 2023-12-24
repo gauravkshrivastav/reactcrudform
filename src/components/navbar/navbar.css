@@ -1,0 +1,20 @@
+.navbar{
+    background-color: #0070AD;
+    color: white;
+}
+
+.navbar-brand{
+    color: white;
+}
+
+.navitems{
+    color: white;
+    font-weight: 400;
+    font-size: 1.1em;
+    margin-right: 20px;
+}
+
+.navbar-toggler{
+    background-color: transparent !important;
+    border: none !important;
+}

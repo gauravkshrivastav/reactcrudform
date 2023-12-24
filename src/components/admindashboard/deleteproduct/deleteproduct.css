@@ -1,0 +1,49 @@
+.popupcontainer{
+    align-items: center;
+	background-color: rgba(36, 36, 36, 0.75);
+	display: flex;
+	flex-wrap: wrap;
+	height: 100vh;
+	justify-content: center;
+	left: 0;
+	margin: 0 auto;
+	overflow-x: hidden;
+	position: fixed;
+	top: 0;
+	width: 100vw;
+	z-index: 100;
+}
+.delete{
+    width: 500px;
+    margin: auto;
+    border: 1px solid gray;
+    padding: 30px;
+    text-align: center;
+    border-radius: 10px;
+    background-color: #fff;
+}
+.deleted{
+		margin: 0px;
+		margin-bottom: 15px;
+		font-size: 20px;
+}
+.productimg {
+	width: 200px;
+}
+.productdetails{
+	display: flex;
+}
+.nameprice{
+	display: block;
+	text-align: left;
+}
+.back{
+	background-color: #0070ad;
+	color: white;
+	border: 1px solid white;
+	border-radius: 5px;
+	padding: 5px;
+	padding-right: 10px;
+	padding-left: 10px;
+	font-size: 20px;
+}

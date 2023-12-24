@@ -1,0 +1,30 @@
+body{
+    background-color: black;
+    color: white;
+    }
+    
+    .accessdenied {
+    color: #d63384 !important;
+    font-size: 80px !important;
+    }
+    
+    h6{
+    color: red !important;
+    text-decoration: underline !important;
+    }
+    .text-center.access {
+        margin: auto;
+        margin-top: 230px;
+    }
+    .back{
+        background-color: #0070ad;
+        color: white;
+        border: 1px solid white;
+        border-radius: 5px;
+        padding: 10px;
+        padding-right: 10px;
+        padding-left: 10px;
+        font-size: 20px;
+    }
+    
+    
